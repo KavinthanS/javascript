@@ -1,0 +1,38 @@
+@import url(./reset.css);
+header h1 {
+  line-height: 7rem;
+  text-align: center;
+  padding: 1rem 0;
+  background-color: #222;
+  color: #fff;
+  cursor: pointer;
+}
+article {
+  max-width: 100rem;
+  margin: 5rem auto;
+}
+.btn-default {
+  display: inline-block;
+  background-color: #ccc;
+  width: max-content;
+  padding: 1rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  margin: 0.5rem 0;
+  font-weight: bolder;
+}
+.btn-primary {
+  background-color: #0984e3;
+  color: #fff;
+}
+.btn-alert {
+  background-color: #d63031;
+  color: #fff;
+}
+.btn-success {
+  background-color: #00b894;
+  color: #fff;
+}
+footer * {
+  text-align: center;
+}

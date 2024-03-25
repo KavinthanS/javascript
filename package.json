@@ -1,0 +1,17 @@
+{
+  "name": "7-ecma-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --no-babelrc src -w -d js --preset=env"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.21.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+    
+  }
+}
