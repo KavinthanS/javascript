@@ -19,7 +19,7 @@ element_h1.addEventListener("click",(e)=>{
   text: "You clicked the button!",
   icon: "success"
   });
-  })
+})
 
 element_h2.addEventListener("click",(e)=>{
   

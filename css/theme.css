@@ -36,3 +36,7 @@ article {
 footer * {
   text-align: center;
 }
+
+main.article.h2{
+  cursor: pointer;
+}
